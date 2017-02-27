@@ -4,3 +4,4 @@ Contains icons pack that makes windows edges wider = easier to grab.
 
 Icons should be copied to /usr/share/themes/Vertex-Maia-Dark/xfwm4
 
+Tested on Manjaro Linux (Arch based), xfce version.
